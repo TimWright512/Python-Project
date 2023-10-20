@@ -1,5 +1,4 @@
 # Python-Project
-TripleTen Sprint 5 - Python Project
 Project Description
 Whenever we're performing analysis, we need to formulate hypotheses that we can then test. Sometimes we accept these hypotheses; other times, we reject them. To make the right decisions, a business must be able to understand whether or not it's making the right assumptions.
 In this project, you'll compare the music preferences of the cities of Springfield and Shelbyville. You'll look at real Yandex.Music data to test the hypotheses below and compare user behavior for these two cities.
